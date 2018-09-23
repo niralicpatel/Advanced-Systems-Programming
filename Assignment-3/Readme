@@ -1,0 +1,11 @@
+Patel Nirali
+ASP Assignment 3
+
+The folder has make, source and readme file.
+
+The commands used to run code 
+ gcc -pthread -o combiner combiner.c
+./combiner 10 7 <input.txt
+
+
+

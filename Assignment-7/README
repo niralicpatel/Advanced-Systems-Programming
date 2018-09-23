@@ -1,0 +1,35 @@
+NAME: NIRALI PATEL
+UFID: 36318593
+ASSIGNMENT 7
+The USB keyboard driver is manipulated to change the CAPSLOCK functionality through NUMSLOCK.
+
+There are two modes: MODE1 and MODE2
+When we insert the driver the functions are explained below:
+MODE 1: The CAPSLOCK has the usual behavior. CAPSLOCK led is turned on and off and it works normally.
+
+Now, while changing to Mode-2 CAPSLOCK will be off. 
+
+MODE-2: When NUMSLOCK is pressed, CAPSLOCK will automatically be turned on. The driver will be in this mode until NUMLOCK is pressed again.
+And the CAPSLOCK behavior can be observed to be opposite.
+The words will be typed in lowercase and when you press the CAPSLOCK again(Led goes off) it will type in uppercase.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
